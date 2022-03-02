@@ -1,0 +1,12 @@
+.button-browser{
+    background-color: #85C1E9;
+    border-style: none;
+    color: white;
+    font-size: 1rem;
+}
+.button-browser:hover{
+    background-color: white;
+    border-style: solid;
+    border-color: #85C1E9;
+    color: #85C1E9;
+}

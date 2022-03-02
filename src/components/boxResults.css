@@ -1,0 +1,12 @@
+#card-results-container{
+    margin-top: 2vw;
+    margin-bottom: 60px;
+}
+.container{
+    margin-bottom: 60px;
+    font-size: 1rem;
+}
+#img-loading{
+    width: 400px;
+    margin: 0 auto;
+}
